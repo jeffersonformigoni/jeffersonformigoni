@@ -68,6 +68,14 @@
   </a>
 </p>
 
+## 🐍 Snake comendo meus commits
+
+<p align="center">
+  <img src="https://github.com/jeffersonformigoni/jeffersonformigoni/raw/output/github-snake.svg" alt="Snake animation" />
+</p>
+
+##
+
 ---
 
 <p align="center">Feito com 💙 por Jefferson Formigoni</p>
