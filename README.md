@@ -18,32 +18,42 @@
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-pied-six-14.vercel.app/api?username=jeffersonformigoni&show_icons=true&theme=tokyonight" alt="Formigoni GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/jeffersonformigoni">
+        <img src="https://github-readme-stats-pied-six-14.vercel.app/api?username=jeffersonformigoni&show_icons=true&theme=tokyonight" alt="Formigoni GitHub Stats"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jeffersonformigoni">
+        <img src="https://github-readme-stats-pied-six-14.vercel.app/api/top-langs/?username=jeffersonformigoni&layout=compact&theme=tokyonight" alt="Top Langs"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 Linguagens mais usadas
-
-<p align="center">
-  <img src="https://github-readme-stats-pied-six-14.vercel.app/api/top-langs/?username=jeffersonformigoni&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
-<!--
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/jeffersonformigoni" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jefferson-formigoni-ara%C3%BAjo-862024122/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jeformigoni/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:jeffersonformigoni86@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:jeffersonformigoni86@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
--->
 
 ---
 
