@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Jefferson Formigoni Araújo 👋</h1>
+<h1 align="left">Olá, eu sou o Jefferson Formigoni Araújo 👋</h1>
 
-<p align="center">
+<p align="left">
   Desenvolvedor Full Stack Júnior | Apaixonado por Programação e Técnologia
 </p>
 
@@ -33,6 +33,18 @@
     </td>
   </tr>
 </table>
+
+##
+## 🛠️ Tecnologias que uso e que estou aprendendo
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+</p>
 
 ---
 
