@@ -1,16 +1,17 @@
-<h1 align="center">Olá, eu sou o Jefferson Formigoni 👋</h1>
+<h1 align="center">Olá, eu sou o Jefferson Formigoni Araújo 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack Júnior | Apaixonado por programação e tecnologia
+  Desenvolvedor Full Stack Júnior | Apaixonado por Programação e Técnologia
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 💼 Estagiando como dev na [Khube Tech]
+- 💼 Procurando emprego
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando C#, .NET, JavaScript, Node.js e React
+- 🚀 Trabalhando em projetos pessoais
 - 🎯 Objetivo: Crescer como desenvolvedor e mudar de vida com tecnologia
 - 🕹️ Gosto de falar sobre jogos, séries e filmes
 
