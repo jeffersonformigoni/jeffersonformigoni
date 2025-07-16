@@ -23,12 +23,12 @@
   <tr>
     <td>
       <a href="https://github.com/jeffersonformigoni">
-        <img src="https://github-readme-stats-pied-six-14.vercel.app/api?username=jeffersonformigoni&show_icons=true&theme=tokyonight" alt="Formigoni GitHub Stats" width="400"/>
+        <img height="180em" width="400" src="https://github-readme-stats-pied-six-14.vercel.app/api?username=jeffersonformigoni&show_icons=true&theme=tokyonight" alt="Formigoni GitHub Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/jeffersonformigoni">
-        <img src="https://github-readme-stats-pied-six-14.vercel.app/api/top-langs/?username=jeffersonformigoni&layout=compact&theme=tokyonight" alt="Top Langs" width="400"/>
+        <img height="180em" width="300" src="https://github-readme-stats-pied-six-14.vercel.app/api/top-langs/?username=jeffersonformigoni&layout=compact&theme=tokyonight" alt="Top Langs" />
       </a>
     </td>
   </tr>
