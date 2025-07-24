@@ -1,23 +1,23 @@
-<h1 align="left">Olá, eu sou o Jefferson Formigoni Araújo 👋</h1>
+<h1 align="left">Hi! My name is Jefferson Formigoni Araújo 👋</h1>
 
 <p align="left">
-  Desenvolvedor Full Stack Júnior | Apaixonado por Programação e Técnologia
+  Front End Developer | Focused on being FullStack {Passionate about Programming and Technology}
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
 - 💼 Procurando emprego
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando C#, .NET, JavaScript, Node.js e React
-- 🚀 Trabalhando em projetos pessoais
-- 🎯 Objetivo: Crescer como desenvolvedor e mudar de vida com tecnologia
+- 🚀 Trabalhando em projetos pessoais e Freelancer
+- 🎯 Objetivo: Crescer como desenvolvedor e mudar de vida com técnologia
 - 🕹️ Gosto de falar sobre jogos, séries e filmes
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <table>
   <tr>
@@ -35,7 +35,7 @@
 </table>
 
 ##
-## 🛠️ Tecnologias que uso e que estou aprendendo
+## 🛠️ Technologies I use and am learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://github.com/jeffersonformigoni" target="_blank" rel="noopener noreferrer">
@@ -68,7 +68,7 @@
   </a>
 </p>
 
-## 🐍 Snake comendo meus commits
+## 🐍 Snake eating my commits
 
 <p align="center">
   <img src="https://github.com/jeffersonformigoni/jeffersonformigoni/raw/output/github-snake.svg" alt="Snake animation" />
